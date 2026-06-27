@@ -27,7 +27,7 @@ public class LoginForm extends JFrame {
         panel.add(txtEmail);
 
         // Password Label and Field
-        panel.add(new JLabel("Password (Dummy):"));
+        panel.add(new JLabel("Password :"));
         txtPassword = new JPasswordField("123");
         panel.add(txtPassword);
 
